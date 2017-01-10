@@ -1,7 +1,7 @@
 <<!DOCTYPE html>
 <html>
 <head>
-	<title>coba</title>
+	<title>Maganger Duxeos</title>
 </head>
 <body>
 
